@@ -1,7 +1,14 @@
 text
+<<<<<<< HEAD
 # Visual Studio files
+=======
+>>>>>>> a11cbfb2b5bb2fa56388ce8773054e9d60e223f4
 .vs/
 bin/
 obj/
 *.user
+<<<<<<< HEAD
 *.suo
+=======
+*.suo
+>>>>>>> a11cbfb2b5bb2fa56388ce8773054e9d60e223f4
